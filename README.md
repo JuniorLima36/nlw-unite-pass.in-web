@@ -34,4 +34,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🚀 Projeto
 
-Nesse projeto iremos desenvolver um sistema de check-in para eventos presenciais, Se trata de uma tabela com a listagem dos dados e informações de usuários que se cadastraram no evento. a simulação dos dados foi feita utilizado a API feita na tilha de Node.js
+Nesse projeto iremos desenvolver um sistema de check-in para eventos presenciais, Se trata de uma tabela com a listagem dos dados e informações de usuários que se cadastraram no evento. a simulação dos dados foi feita utilizado a API feita na trilha de Node.js
+
+O back-end da aplicação está disponível neste repositório: **nlw-unite-nodejs**. Certifique-se de rodá-lo para que a aplicação front-end funcione corretamente.
+
+## :clipboard: Clonando o repositório Back-end:
+```sh
+  git clone https://github.com/JuniorLima36/nlw-unite-nodejs.git
+```
+
+### ▶️ Rodando Front-end e Back-end:
+```sh
+  npm install
+  npm run dev
+```
